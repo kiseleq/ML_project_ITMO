@@ -1,1 +1,1 @@
-# ML_project_ITMO
+# Командный проект по предмету Machine Learning
